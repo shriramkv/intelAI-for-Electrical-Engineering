@@ -8,6 +8,7 @@ The ROC curve, along with the area under the curve (AUC), assesses the model's a
 
 Together, these tools are crucial for evaluating the trade-offs between true positive rates and false positive rates, helping to refine the model for more accurate and reliable predictions in battery cell balancing applications.
 
+![image](https://github.com/shriramkv/intelAI-for-Electrical-Engineering/assets/11191833/649a94bc-2c4e-4130-8b65-bdf2308d8b42)
 
 
 
